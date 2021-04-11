@@ -1,0 +1,10 @@
+Instrucciones 
+1 := Patron de "Gosper glider gun"
+2 := Patrones oscilantes 
+3 := Naves espaciales
+a := Semilla aleatoria 
+Click derecho := Activar/desactivar una celula
+Space := Renaudar/Pausar el juego 
++ := Aumentar velocidad de ejecución 
+- := Disminuir velocidad de ejecución 
+c := limpiar pantalla 
